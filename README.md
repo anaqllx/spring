@@ -46,9 +46,9 @@
 REST API Endpoints
 1.	Для студентів
 •	Реєстрація
-o	Метод: POST
-o	Endpoint: /api/students/register
-o	Параметри: firstname, lastname, specialty_id
+    o	 Метод: POST
+    o	Endpoint: /api/students/register
+    o	Параметри: firstname, lastname, specialty_id
 •	Вхід
 o	Метод: POST
 o	Endpoint: /api/students/login
